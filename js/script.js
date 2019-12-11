@@ -99,6 +99,14 @@ random_bg_color();
 setInterval ((printQuote)={} ,20000);
 
 
+/**
+ * I am looking for a Meets Expectation grade. 
+ * I was trying for Exceeds Expectation which is why I have a changing background and interval code, 
+ * but couldn't figure out how to add tags called "Video Games", "Movies", and "Science" to the string, 
+ * I thought maybe a "===" might work in an additional if statement but didn't like how it looked
+ */
+
+
 /***
  * click event listener for the print quote button
  * DO NOT CHANGE THE CODE BELOW!!
