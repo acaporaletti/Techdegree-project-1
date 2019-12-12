@@ -55,8 +55,6 @@ var getRandomQuote = function() {
   return quotes[randomNumber];
 }
 
-console.log(getRandomQuote );
-
 
 /***
 * `printQuote` function
